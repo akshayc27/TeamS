@@ -1,0 +1,2 @@
+LOCAL_IP = ''
+IF_CONTAMINATION = ''
